@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "description": "Finish Python project",
+        "status": "in-progress",
+        "createdAt": "2025-06-28T18:05:27.635166",
+        "updatedAt": "2025-07-09T21:17:33.197316"
+    },
+    {
+        "id": 2,
+        "description": "Finish Python project and submit",
+        "status": "done",
+        "createdAt": "2025-06-28T18:05:27.908766",
+        "updatedAt": "2025-07-09T21:17:53.511381"
+    },
+    {
+        "id": 3,
+        "description": "Buy groceries",
+        "status": "todo",
+        "createdAt": "2025-06-28T18:06:17.768827",
+        "updatedAt": "2025-06-28T18:06:17.768827"
+    }
+]
